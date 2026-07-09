@@ -47,8 +47,7 @@ Career-Compass-AI/
 1. Download or clone the repository.
 
 ```bash
-git clone https://github.com/your-username/career-compass-ai.git
-```
+]https://github.com/chanchalgore4/career-compass-ai```
 
 2. Open the project folder.
 

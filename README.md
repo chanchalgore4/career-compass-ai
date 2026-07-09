@@ -47,7 +47,7 @@ Career-Compass-AI/
 1. Download or clone the repository.
 
 ```bash
-]https://github.com/chanchalgore4/career-compass-ai```
+[https://github.com/chanchalgore4/career-compass-ai]```
 
 2. Open the project folder.
 
@@ -60,8 +60,7 @@ Career-Compass-AI/
 After enabling GitHub Pages, your project will be available at:
 
 ```
-https://your-username.github.io/career-compass-ai/
-```
+[https://chanchalgore4.github.io/career-compass-ai/]```
 
 ---
 
